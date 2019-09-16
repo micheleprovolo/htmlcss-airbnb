@@ -43,6 +43,10 @@
   margin: 10px;
 }
 
+div #box-tokyo:hover {
+  background-color: yellow;
+}
+
 #box-tokyo {
   width: 70vw;
   height: 30%;
